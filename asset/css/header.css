@@ -24,6 +24,10 @@ header nav ul li a {
   transition: 0.2s;
 }
 header nav ul li a:hover {
-  color: #222222;
+  color:  #007bff;
+  text-decoration: none;
+}
+
+a{
   text-decoration: none;
 }
