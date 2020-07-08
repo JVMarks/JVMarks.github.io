@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
- | <a href="#rocket-tecnologias">Tecnologias</a>   |   
+ | <a href="#rocket-tecnologias">Tecnologias</a> |   
 </p>
 <br>
 <p align="center">
@@ -22,7 +22,7 @@
 <ul>
 <li><a href="https://jquery.com/" rel="nofollow">Jquery</a></li>
 <li><a href="https://getbootstrap.com/" rel="nofollow">Bootstrap</a></li>
-<li><a href="https://scrollrevealjs.org/" rel="nofollow">Scrollrevealjs</a></li>
+   <li><a href="https://scrollrevealjs.org/" rel="nofollow">Scrollrevealjs</a></li>
 </ul>
 
     
