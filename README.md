@@ -25,7 +25,6 @@
    <li><a href="https://scrollrevealjs.org/" rel="nofollow">Scrollrevealjs</a></li>
 </ul>
 
-    
  <!--
  by https://github.com/JVMarks
 
